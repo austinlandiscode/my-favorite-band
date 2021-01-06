@@ -13,9 +13,12 @@ body{
   background-color: yellow;
 }
 .logo {
-  float: right;
+  float: left;
+}
+.chili {
   width: 100px;
   height: 100px;
-  margin: 0,20,
+  margin-bottom: 50px;
+  margin-left: 10px;
 }
 
