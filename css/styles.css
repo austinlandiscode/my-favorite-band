@@ -1,0 +1,21 @@
+/* TAGS */
+li {
+  padding: 3px;
+  line-height: 20px;
+}
+body{
+  background-color: rgb(231, 66, 0);
+}
+/* CLASSES */
+.sidebar {
+  width: 30%;
+  float: left;
+  background-color: yellow;
+}
+.logo {
+  float: right;
+  width: 100px;
+  height: 100px;
+  margin: 0,20,
+}
+
